@@ -1,4 +1,4 @@
-module github.com/go-pdf/fpdf
+module github.com/WorldofPlainness/fpdf
 
 go 1.21
 
